@@ -4,6 +4,11 @@
 
 ![components](processorComponents.png)
 
+### Software
+
+* [Xilinx ISE Project Navigator][Xilinx] - FPGA design solution to synthesis and simulation
+* [MARS] - **M**IPS **A**ssembler and **R**untime **S**imulator
+
 ![instruction](instruction.png)
 
 ![schema](Schema.png)
