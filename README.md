@@ -6,8 +6,8 @@
 
 ### Software
 
-* [Xilinx ISE Project Navigator][Xilinx] - FPGA design solution to synthesis and simulation
-* [MARS] - **M**IPS **A**ssembler and **R**untime **S**imulator
+* [Xilinx ISE Project Navigator](https://www.xilinx.com/products/design-tools/ise-design-suite/ise-webpack.html) - FPGA design solution to synthesis and simulation
+* [MARS](http://courses.missouristate.edu/kenvollmar/mars/) - **M**IPS **A**ssembler and **R**untime **S**imulator
 
 ![instruction](instruction.png)
 
