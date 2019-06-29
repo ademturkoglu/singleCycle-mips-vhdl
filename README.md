@@ -2,7 +2,7 @@
 
 ## My team's project in Computer Architecture lecture. We write mips architecture with vhdl and run this instructions
 ### My Team :
-* M.Kemal Patır 
+* [M.Kemal Patır](https://github.com/mkpatir) 
 * [Emre Erinç](https://github.com/EmreErinc)
 * [Kerem Canlı](https://github.com/KeremCanli)
 
